@@ -41,6 +41,6 @@ while response == "y":
         print("|  |")
         print("|  |")
 
-response = input("Do you want to roll again? (y/n): ")
-if response == "n":
-    print("Thanks for playing!")        
+    response = input("Do you want to roll again? (y/n): ")
+    if response == "n":
+        print("Thanks for playing!")        
